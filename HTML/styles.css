@@ -1,4 +1,4 @@
-body{background-color:pink;}
+body{background-color:pink;border:solid;border-width: 5px;}
 p{color:green;font-family: Arial;}
 h1{color: purple; font-family:Aharoni;}
 h3{color: blue; font-family:Garamond;}
@@ -7,3 +7,5 @@ ul{
   color:yellow;
   font-family:"Iskoola Pota";
 }
+hr{border: 1px solid black;}
+
